@@ -1,0 +1,36 @@
+.nav{
+    background-color:#5D5D5E;
+    height: 60px;
+    margin-right: 1.5%;
+    margin-left: 1.5%;
+}
+.nav-link:hover{
+    color: white;
+}
+.jumbotron{
+    color: #36383a;
+    /*background-color:none !important;*/
+    margin: 5px 38px;
+ 
+    
+}
+
+.nav-link{
+    color: rgb(26, 35, 41);
+}
+
+
+
+
+div.row {
+   
+    margin: 5px 15px ;
+    
+   }
+
+.card{ 
+   
+    margin: 5px 5px;
+    padding: 4px; 
+   
+}

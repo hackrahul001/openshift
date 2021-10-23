@@ -1,0 +1,32 @@
+.nav{
+    background-color:#22A7EC;
+    height: 60px;
+}
+
+.jumbotron{
+    color: #36383a;
+    /*background-color:none !important;*/
+    /* margin: 5px 2px; */
+    height: 40%;
+    
+}
+
+.nav-link{
+    color: rgb(26, 35, 41);
+}
+
+
+
+
+div.row {
+   
+    margin: 10px 10px ;
+    
+   }
+
+.card{ 
+   
+    margin: 2px 2px;
+    padding: 2px; 
+   
+}
